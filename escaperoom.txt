@@ -1,0 +1,126 @@
+-intro prompts
+    -input name
+    -welcome to the escape room
+    -guidelines/rules
+        -3 rooms
+        -solve your way through to escape
+        -commands to navigate
+            -l (left)
+            -r (right)
+                l and r correspond to objects/puzzles
+            -f (front)- door to next room/exit
+            -b (back)- to go to previous room
+            -c (centre)-  goes to the centre of the room
+            -typing anything else goes to the centre
+
+Room 1
+    -left- matrix
+
+        235
+        346
+        45?
+        solve to get password
+
+    -right-safe
+        -enter password
+        -safe will have
+            -riddle with jumbled letters
+                what gets wet while it dries ans. towel
+                keep same order of words, jumble the letters in each word
+            -key to move to Room 2
+            -give prompt saying door to room 2 is open
+
+Room 2
+    -right- table with paper displaying different options-
+
+                P+P-E+L-A 
+                ...
+                L+T-O+W-E 
+
+        correct option- L+T-O+W-E
+        ans- 12+20-15+23-5 = 35
+    
+    -left- table with phone, vase, candle
+            choose number to view objects-
+            1-vase 2-phone 3-candle
+
+            phone-
+                -enter ans from paper, ans opens phone (pw is 35)
+                -a playlist appears with song names having a common word
+                -the word is the code to enter the 3rd room
+
+Room 3
+
+    -front- mini room
+        -pacman-like maze
+        -groups of letters along the path, right path spells out - "whats playing now"
+        -go back to playlist on phone and get song name
+
+    -left- wall full of synonyms of the first word of the song name 
+        -key to exit- first word of the song
+
+    -right- exit
+        -enter key
+        -the end
+
+            
+hints
+-2 total
+-can be used at any point
+
+
+images-
+
+ANKITA
+Room 1
+1. full room
+2. left-matrix on the wall
+3. right- safe closed- with enter key written on it
+4. safe open- opened door, jumbled riddle engraved on the wall of the safe
+5. front- door closed
+6. door open
+
+
+Room 2
+1. full room
+2. left- tabletop view of paper with 
+                P+P-E+L-A 
+                ...
+                L+T-O+W-E 
+
+ans=35
+
+HARINI -
+
+right
+3. front view of table with candle, vase and phone
+4. candle
+5. vase
+6. phone- lock screen, enter passcode
+7. phone- unlocked phone with playlist, now playing song, 5 songs with common word
+
+        common word- happy
+
+        happy birthday
+        dont worry be happy
+        now playing- Shiny happy people
+        happy trails
+        put on a happy face
+
+
+8. front-door closed (use same as room 1)
+9. door open (use same as room 1)
+
+
+
+ADITI
+Room 3
+1. full room
+2. front- mini room door (use same as room 1 door), door says open me in the middle
+3. mini room- maze on the wall
+3. left- synonym wall
+        synonyms of shiny
+
+4. right- door saying enter key
+5. door open (use same as room 1)
+6. You have escaped
